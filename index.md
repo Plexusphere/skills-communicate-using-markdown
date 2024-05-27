@@ -4,14 +4,18 @@
 
 ###### Im h6, im shy.
 
-## A image of Yaktocat, im following instructions.
+## A image of Yaktocat.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-# Here is some code, provided from the instructions.
+# Here is some code
 
 ```
 $echo Hello
 Hello
 ```
+
+- [ ] Write hello word program
+- [ ] Learn new stuff
+- [x] Enjoy Github
