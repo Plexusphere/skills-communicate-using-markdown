@@ -7,3 +7,11 @@
 ## A image of Yaktocat, im following instructions.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+# Here is some code, provided from the instructions.
+
+```
+$echo Hello
+Hello
+```
